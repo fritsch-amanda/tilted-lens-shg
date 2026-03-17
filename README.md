@@ -1,4 +1,4 @@
-# Tilted BK7 Lens — ASM + SHG + Phase Visualizer
+# Tilted Lens + SHG
 
 An interactive GUI for simulating the propagation of structured laser beams through a tilted BK7 plano-convex lens, including second-harmonic generation (SHG) and full phase visualization. Built with NumPy, Matplotlib, and SciPy.
 
